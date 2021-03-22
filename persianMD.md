@@ -1,9 +1,9 @@
 # مارک‌داون فارسی
 
-![markdown](assets/markdown.png)
-![farsi](assets/farsi.png)
-![rtl](assets/rtl.png)
-![vscode](assets/vscode.png)
+![markdown](images/markdown.png)
+![farsi](images/farsi.png)
+![rtl](images/rtl.png)
+![vscode](images/vscode.png)
 
 این یک هک کوچک برای ساده سازی تولید اسناد متنی فارسی با استفاده از زبان مارک‌داون است.
 
